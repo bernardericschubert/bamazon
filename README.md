@@ -59,6 +59,8 @@ Read more about these packages [here](https://www.npmjs.com/)
 
     If quantity exceeds the available amount in the database, an error is returned
 
+    <img src="images/database_insufficient.png">
+
     <img src="images/insufficient_quantity.png">
 
     <img src="images/code_insufficient.png">
