@@ -51,11 +51,11 @@ Read more about these packages [here](https://www.npmjs.com/)
 
     <img src="images/successful_purchase.png">
 
-    Upon successful purchase, the application will update the quantity in the database.  Notice the decreased quantity for ID:3 compared to the starting amount above
-
-    <img src="images/code_update.png">
+    Upon successful purchase, the application will update the quantity in the database.  Notice the decreased quantity for ID:3 compared to the starting amount above.  It started at 250 and decreased by 5 per customer request.
 
     <img src="images/database_end.png">
+    
+    <img src="images/code_update.png">
 
     If quantity exceeds the available amount in the database, an error is returned
 
